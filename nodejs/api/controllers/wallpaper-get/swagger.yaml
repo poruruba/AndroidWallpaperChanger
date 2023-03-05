@@ -1,0 +1,8 @@
+paths:
+  /wallpaper-get:
+    get:
+      responses:
+        200:
+          description: Success
+          schema:
+            type: object
